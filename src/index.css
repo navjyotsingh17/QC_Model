@@ -1,0 +1,14 @@
+.form{
+  opacity: 1;
+}
+
+.form :hover{
+  cursor: pointer;
+}
+
+.pdf-container Document{
+  margin-left: 1000px;
+}
+
+
+
